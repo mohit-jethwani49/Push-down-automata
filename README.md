@@ -7,6 +7,7 @@ This repository contains a simple implementation of a Push Down Automata (PDA) c
 - Input the PDA transition table.
 - Input a string to check against the PDA.
 - Supports both DPDA and NPDA.
+- Provides tracing of the string in the PDA when it is accepted.
 
 ## Getting Started
 
@@ -37,3 +38,9 @@ To run this project, you need a web server with PHP support (e.g., Apache, Nginx
 3. Enter the string you want to check against the PDA.
 
 4. Submit the form to check if the string is accepted by the PDA.
+
+5. If the string is accepted, the program will provide a tracing of the string in the PDA, showing the sequence of states and stack operations.
+
+## Example
+
+You can refer to the three text files in the directory that contain sample inputs for some standard PDAs.
