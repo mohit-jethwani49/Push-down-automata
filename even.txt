@@ -1,0 +1,18 @@
+Q P F
+a b
+Z a b
+Q
+Z
+F
+Q a Z Q aZ
+Q b Z Q bZ
+Q a a Q aa
+Q b b Q bb
+Q a b Q ab
+Q b a Q ba
+Q ^ a P a
+Q ^ b P b
+Q ^ Z P Z
+P a a P ^
+P b b P ^
+P ^ Z F Z
