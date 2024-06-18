@@ -18,7 +18,7 @@ To run this project, you need a web server with PHP support (e.g., Apache, Nginx
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/pda-checker.git
+    git clone https://github.com/mohit-jethwani49/Push-down-automata.git
     ```
 
 2. Ensure that your web server is set up and running. Place the `thoc.php` file in the web server's root directory or any directory you prefer.
